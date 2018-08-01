@@ -54,6 +54,7 @@
 		3DC8CFBD2111A13700C66EF9 /* MyWeibo */ = {
 			isa = PBXGroup;
 			children = (
+				3DC8CFD02111A69D00C66EF9 /* New Group */,
 				3DC8CFBE2111A13700C66EF9 /* AppDelegate.swift */,
 				3DC8CFC02111A13700C66EF9 /* ViewController.swift */,
 				3DC8CFC22111A13700C66EF9 /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				3DC8CFCA2111A13900C66EF9 /* Info.plist */,
 			);
 			path = MyWeibo;
+			sourceTree = "<group>";
+		};
+		3DC8CFD02111A69D00C66EF9 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
